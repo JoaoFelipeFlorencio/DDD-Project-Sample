@@ -1,0 +1,16 @@
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\WebAPI.Infrastruture.CrossCutting.Adapter.deps.json
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\WebAPI.Infrastruture.CrossCutting.Adapter.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\WebAPI.Infrastruture.CrossCutting.Adapter.pdb
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\WebAPI.Application.DTO.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\WebAPI.Domain.Core.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\WebAPI.Domain.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\WebAPI.Application.DTO.pdb
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\WebAPI.Domain.pdb
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\WebAPI.Domain.Core.pdb
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\WebAPI.Infrastruture.CrossCutting.Adapter.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\WebAPI.Infrastruture.CrossCutting.Adapter.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\WebAPI.Infrastruture.CrossCutting.Adapter.AssemblyInfo.cs
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\WebAPI.Infrastruture.CrossCutting.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\WebAPI.Infrastruture.CrossCutting.Adapter.csproj.CopyComplete
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\WebAPI.Infrastruture.CrossCutting.Adapter.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\WebAPI.Infrastruture.CrossCutting.Adapter.pdb

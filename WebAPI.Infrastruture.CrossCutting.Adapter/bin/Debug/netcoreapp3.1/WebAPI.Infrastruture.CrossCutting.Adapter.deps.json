@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebAPI.Infrastruture.CrossCutting.Adapter/1.0.0": {
+        "dependencies": {
+          "WebAPI.Application.DTO": "1.0.0",
+          "WebAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebAPI.Infrastruture.CrossCutting.Adapter.dll": {}
+        }
+      },
+      "WebAPI.Application.DTO/1.0.0": {
+        "dependencies": {
+          "WebAPI.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "WebAPI.Application.DTO.dll": {}
+        }
+      },
+      "WebAPI.Domain/1.0.0": {
+        "runtime": {
+          "WebAPI.Domain.dll": {}
+        }
+      },
+      "WebAPI.Domain.Core/1.0.0": {
+        "dependencies": {
+          "WebAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebAPI.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAPI.Infrastruture.CrossCutting.Adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebAPI.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebAPI.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

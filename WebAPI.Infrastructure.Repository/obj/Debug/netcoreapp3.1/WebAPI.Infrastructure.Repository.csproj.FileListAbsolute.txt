@@ -1,0 +1,16 @@
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\bin\Debug\netcoreapp3.1\WebAPI.Domain.Core.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\bin\Debug\netcoreapp3.1\WebAPI.Domain.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\bin\Debug\netcoreapp3.1\WebAPI.Infrastructure.Data.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Repository.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Repository.AssemblyInfo.cs
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\bin\Debug\netcoreapp3.1\WebAPI.Infrastructure.Repository.deps.json
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\bin\Debug\netcoreapp3.1\WebAPI.Infrastructure.Repository.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\bin\Debug\netcoreapp3.1\WebAPI.Infrastructure.Repository.pdb
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\bin\Debug\netcoreapp3.1\WebAPI.Domain.Core.pdb
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\bin\Debug\netcoreapp3.1\WebAPI.Infrastructure.Data.pdb
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\bin\Debug\netcoreapp3.1\WebAPI.Domain.pdb
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Repository.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Repository.csproj.CopyComplete
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Repository.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Repository\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Repository.pdb

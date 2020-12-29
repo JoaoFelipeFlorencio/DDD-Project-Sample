@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\bin\Debug\netcoreapp3.1\WebAPI.Domain.Services.deps.json
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\bin\Debug\netcoreapp3.1\WebAPI.Domain.Services.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\bin\Debug\netcoreapp3.1\WebAPI.Domain.Services.pdb
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\bin\Debug\netcoreapp3.1\WebAPI.Domain.Core.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\bin\Debug\netcoreapp3.1\WebAPI.Domain.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\bin\Debug\netcoreapp3.1\WebAPI.Domain.Core.pdb
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\bin\Debug\netcoreapp3.1\WebAPI.Domain.pdb
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\obj\Debug\netcoreapp3.1\WebAPI.Domain.Services.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\obj\Debug\netcoreapp3.1\WebAPI.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\obj\Debug\netcoreapp3.1\WebAPI.Domain.Services.AssemblyInfo.cs
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\obj\Debug\netcoreapp3.1\WebAPI.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\obj\Debug\netcoreapp3.1\WebAPI.Domain.Services.csproj.CopyComplete
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\obj\Debug\netcoreapp3.1\WebAPI.Domain.Services.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Domain.Services\obj\Debug\netcoreapp3.1\WebAPI.Domain.Services.pdb

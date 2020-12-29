@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebAPI.Domain.Core/1.0.0": {
+        "dependencies": {
+          "WebAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebAPI.Domain.Core.dll": {}
+        }
+      },
+      "WebAPI.Domain/1.0.0": {
+        "runtime": {
+          "WebAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAPI.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

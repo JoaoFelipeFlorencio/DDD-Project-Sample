@@ -1,0 +1,12 @@
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Data\bin\Debug\netcoreapp3.1\WebAPI.Domain.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Data\bin\Debug\netcoreapp3.1\WebAPI.Infrastructure.Data.deps.json
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Data\bin\Debug\netcoreapp3.1\WebAPI.Infrastructure.Data.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Data\bin\Debug\netcoreapp3.1\WebAPI.Infrastructure.Data.pdb
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Data\bin\Debug\netcoreapp3.1\WebAPI.Domain.pdb
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Data.csproj.CopyComplete
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Data.dll
+C:\Users\Windows\source\repos\DDDProjectSample\WebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\WebAPI.Infrastructure.Data.pdb

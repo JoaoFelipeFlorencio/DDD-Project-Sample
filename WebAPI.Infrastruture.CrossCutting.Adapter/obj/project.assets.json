@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebAPI.Application.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "WebAPI.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WebAPI.Application.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebAPI.Application.DTO.dll": {}
+        }
+      },
+      "WebAPI.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/WebAPI.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebAPI.Domain.dll": {}
+        }
+      },
+      "WebAPI.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "WebAPI.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WebAPI.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebAPI.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAPI.Application.DTO/1.0.0": {
+      "type": "project",
+      "path": "../WebAPI.Application.DTO/WebAPI.Application.DTO.csproj",
+      "msbuildProject": "../WebAPI.Application.DTO/WebAPI.Application.DTO.csproj"
+    },
+    "WebAPI.Domain/1.0.0": {
+      "type": "project",
+      "path": "../WebAPI.Domain/WebAPI.Domain.csproj",
+      "msbuildProject": "../WebAPI.Domain/WebAPI.Domain.csproj"
+    },
+    "WebAPI.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../WebAPI.Domain.Core/WebAPI.Domain.Core.csproj",
+      "msbuildProject": "../WebAPI.Domain.Core/WebAPI.Domain.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "WebAPI.Application.DTO >= 1.0.0",
+      "WebAPI.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Windows\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Windows\\source\\repos\\DDDProjectSample\\WebAPI.Infrastruture.CrossCutting.Adapter\\WebAPI.Infrastruture.CrossCutting.Adapter.csproj",
+      "projectName": "WebAPI.Infrastruture.CrossCutting.Adapter",
+      "projectPath": "C:\\Users\\Windows\\source\\repos\\DDDProjectSample\\WebAPI.Infrastruture.CrossCutting.Adapter\\WebAPI.Infrastruture.CrossCutting.Adapter.csproj",
+      "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Windows\\source\\repos\\DDDProjectSample\\WebAPI.Infrastruture.CrossCutting.Adapter\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Windows\\source\\repos\\DDDProjectSample\\WebAPI.Application.DTO\\WebAPI.Application.DTO.csproj": {
+              "projectPath": "C:\\Users\\Windows\\source\\repos\\DDDProjectSample\\WebAPI.Application.DTO\\WebAPI.Application.DTO.csproj"
+            },
+            "C:\\Users\\Windows\\source\\repos\\DDDProjectSample\\WebAPI.Domain\\WebAPI.Domain.csproj": {
+              "projectPath": "C:\\Users\\Windows\\source\\repos\\DDDProjectSample\\WebAPI.Domain\\WebAPI.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
